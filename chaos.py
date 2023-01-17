@@ -36,7 +36,7 @@ for i in range(n):
         if abs(x) > 10**6 or abs(y) > 10**6:
             break
             
-        if j > 10:
+        if j > 3:
             xy.append((x,y))
             
 
